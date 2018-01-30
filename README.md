@@ -16,7 +16,7 @@ where G is the shear modulus of rock, A is the area, Δw is the change in the po
 
 M = 10<sup>(1.5*9+9.1)</sup> ≈ 4x10<sup>22</sup> Nm.
 
-The G in this case is equal to approximately 3x10<sup>10</sup>Pa, which simplifies Equation (1) to
+The G in this case is equal to approximately 3x10<sup>10</sup>Pa, which simplifies Equation 1 to
 AΔw≈10<sup>12</sup>m<sup>3</sup>
 
 ![pic](./tsunami.gif)
